@@ -45,7 +45,7 @@ Here are some of the projects I've worked on:
    - Utilizes Data Mining and NLP techniques.
    - Aimed at analyzing customer reviews from E-commerce platforms.
 
-2. **Score Pulse**
+2. ### **Score Pulse**
 
 <p align="center">
   <img src="https://github.com/hammadaslam1/score-pulse/blob/main/src/assets/logos/icon_lite.png" alt="Project Image">
@@ -56,7 +56,7 @@ Here are some of the projects I've worked on:
 
    - A simple Mobile App for managing scores of cricket matches developed using React Native.
 
-3. **00 Social Club**
+3. ### **00 Social Club**
 
 <p align="center">
   <img src="https://github.com/hammadaslam1/00-Social-Club-UI/blob/main/src/assets/logos/scLogo02.png" alt="Project Image">
@@ -64,7 +64,7 @@ Here are some of the projects I've worked on:
 
    - A simple Web-based UI design using React JS for Double Zero Social Club.
 
-4. **Blogs Website**
+4. ### **Blogs Website**
 
 <p align="center">
   <img src="https://github.com/hammadaslam1/mha-blogs/blob/main/src/assets/blogs.png" alt="Project Image">
@@ -72,7 +72,7 @@ Here are some of the projects I've worked on:
 
    - A simple Blog website on which you can publish your blogs.
 
-5. **MHA's Swift Swap**
+5. ### **MHA's Swift Swap**
 
    - A simple online exchange website for online goods exchange.
 
