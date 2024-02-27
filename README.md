@@ -1,5 +1,12 @@
 # Muhammad Hammad Aslam
-### Information Technology Student
+
+<p align="center">
+  <img src="https://github.com/hammadaslam1/hammadaslam1/blob/main/NTdNR8h5D3XR09eNydV665QX.jpg" height="400px" alt="Project Image">
+</p>
+
+<h3>
+  Information Technology Student
+</h3>
 
 Welcome to my GitHub profile! Here you'll find a showcase of my academic journey, projects, and interests in the field of Information Technology. 
 
