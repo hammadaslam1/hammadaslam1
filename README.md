@@ -15,14 +15,14 @@ Welcome to my GitHub profile! Here you'll find a showcase of my academic journey
 I am Hammad Aslam, an Information Technology student hailing from Jauharabad, Pakistan. My academic journey has been marked by a consistent pursuit of knowledge and skills in the realm of IT.
 
 - **Education:**
-  - Matriculation: Govt. Jauhar Memorial High School, Jauharabad (2014-2016) - 64%
-  - Intermediate with Computer Science: Govt. Post Graduate College, Jauharabad (2016-2018) - 65%
-  - Undergraduation in Computer Science: Govt. Post Graduate College, Jauharabad (2018-2020) - 52%
-  - Diploma of Information Technology: Information Technology Centre, Jauharabad (2021-2022) - 78%
-  - Currently pursuing BS Information Technology Post ADP 4th sem (8th sem BS(Hons)) from University of Education, Lahore (2022-2024) - CGPA: 3.61
+  - **Matriculation**: Govt. Jauhar Memorial High School, Jauharabad (2014-2016) - 64%
+  - **Intermediate with Computer Science**: Govt. Post Graduate College, Jauharabad (2016-2018) - 65%
+  - **Undergraduation in Computer Science**: Govt. Post Graduate College, Jauharabad (2018-2020) - 52%
+  - **Diploma of Information Technology**: Information Technology Centre, Jauharabad (2021-2022) - 78%
+  - Currently pursuing **BS Information Technology Post ADP 4th sem (8th sem BS(Hons))** from **University of Education, Lahore** (2022-2024) - CGPA: 3.61
 
 - **Projects:**
-  - I'm currently working on my final year project titled "Customer Reviews Classification and Analysis System using Data Mining and NLP". It involves analyzing customer reviews from various E-commerce platforms like Amazon and Daraz, classifying them based on fakeness, sentiments, topics, and context extraction.
+  - I'm currently working on my final year project titled "**OpinioMine**". It involves analyzing customer reviews from various E-commerce platforms like Amazon and Daraz, classifying them based on fakeness, sentiments, topics, and context extraction.
 
 - **Interests:**
   - Proficient in programming and web development.
@@ -80,15 +80,15 @@ Here are some of the projects I've worked on:
 
 | **Social Media** |
 |--------------|
-| [Github](https://github.com/hammadaslam1)     |
-| [Fiverr](https://www.fiverr.com/hammadaslam10)     |
-| [LinkedIn](https://www.linkedin.com/in/hammadaslam10)     |
-| [Mail](mailto:hammadaslam308@gmail.com)     |
-| [Instagram](https://www.instagram.com/hammadaslam10)     |
-| [Facebook](https://web.facebook.com/hammadaslam101)     |
-| [Twitter](https://twitter.com/hammadaslam_10)     |
-| [Discord](https://discordapp.com/users/1061504929681911879)     |
-| [Whatsapp](https://wa.me/qr/7R7TGR2TSQAEE1)     |
+| [**Github**](https://github.com/hammadaslam1)     |
+| [**Fiverr**](https://www.fiverr.com/hammadaslam10)     |
+| [**LinkedIn**](https://www.linkedin.com/in/hammadaslam10)     |
+| [**Mail**](mailto:hammadaslam308@gmail.com)     |
+| [**Instagram**](https://www.instagram.com/hammadaslam10)     |
+| [**Facebook**](https://web.facebook.com/hammadaslam101)     |
+| [**Twitter**](https://twitter.com/hammadaslam_10)     |
+| [**Discord**](https://discordapp.com/users/1061504929681911879)     |
+| [**Whatsapp**](https://wa.me/qr/7R7TGR2TSQAEE1)     |
 
 
 Feel free to reach out if you have any inquiries or opportunities to collaborate. Let's connect and innovate together!
