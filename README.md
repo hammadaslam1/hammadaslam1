@@ -1,99 +1,127 @@
-# Muhammad Hammad Aslam
+<div align="center">
+  <img height="150" src="https://avatars.githubusercontent.com/u/131670890?v=4"  />
+</div>
 
-<p align="center">
-  <img src="https://github.com/hammadaslam1/hammadaslam1/blob/main/NTdNR8h5D3XR09eNydV665QX.jpg" height="400px" alt="Project Image">
-</p>
+###
 
-<h3>
-  Information Technology Student
-</h3>
+<h1 align="center">Muhammad Hammad Aslam</h1>
 
-Welcome to my GitHub profile! Here you'll find a showcase of my academic journey, projects, and interests in the field of Information Technology. 
+###
 
-## About Me
+<br clear="both">
 
-I am Hammad Aslam, an Information Technology student hailing from Jauharabad, Pakistan. My academic journey has been marked by a consistent pursuit of knowledge and skills in the realm of IT.
+<div align="center">
+  <a href="https://www.linkedin.com/in/hammadaslam10/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://twitter.com/hammadaslam_10" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="45" height="25" alt="twitter logo"  />
+  </a>
+  <a href="https://www.instagram.com/hammadaslam10/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="45" height="25" alt="instagram logo"  />
+  </a>
+  <a href="https://web.facebook.com/hammadaslam101" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="45" height="25" alt="facebook logo"  />
+  </a>
+  <a href="mailto:hammadaslam308@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="45" height="25" alt="gmail logo"  />
+  </a>
+  <a href="https://discordapp.com/users/1061504929681911879" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="45" height="25" alt="discord logo"  />
+  </a>
+  <a href="https://www.hackerrank.com/profile/hammadaslam10" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="45" height="25" alt="hackerrank logo"  />
+  </a>
+  <a href="https://wa.me/qr/7R7TGR2TSQAEE1" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="45" height="25" alt="whatsapp logo"  />
+  </a>
+</div>
 
-- **Education:**
-  - **Matriculation**: Govt. Jauhar Memorial High School, Jauharabad (2014-2016) - 64%
-  - **Intermediate with Computer Science**: Govt. Post Graduate College, Jauharabad (2016-2018) - 65%
-  - **Undergraduation in Computer Science**: Govt. Post Graduate College, Jauharabad (2018-2020) - 52%
-  - **Diploma of Information Technology**: Information Technology Centre, Jauharabad (2021-2022) - 78%
-  - Currently pursuing **BS Information Technology Post ADP 4th sem (8th sem BS(Hons))** from **University of Education, Lahore** (2022-2024) - CGPA: 3.61
+###
 
-- **Projects:**
-  - I'm currently working on my final year project titled "**OpinioMine**". It involves analyzing customer reviews from various E-commerce platforms like Amazon and Daraz, classifying them based on fakeness, sentiments, topics, and context extraction.
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=hammadaslam1.hammadaslam1&"  />
+</div>
 
-- **Interests:**
-  - Proficient in programming and web development.
-  - Developed projects in React JS for the web and React Native for Android.
-  - Enthusiastic about working on side projects to enhance skills and explore new technologies.
+###
 
-## Projects
+<h3 align="left">👩‍💻  About Me</h3>
 
-Here are some of the projects I've worked on:
+###
 
-1. ### **OpinioMine**
+<p align="left">I'm Hammad Aslam, an Information Technology student from Jauharabad, Pakistan.<br><br>- 🔭 I’m a student of BS Information Technology Post ADP 4th sem (8th sem BS(Hons)) University of Education, Lahore<br>- 📚 I'm currently working on my FYP named "OpinioMine", which analyzes customer reviews and classifies them based on their fakeness, sentiment, context and topics.<br>- ⚡ I have interests in programming and web development, and looking for the opportunity to enhance my skills</p>
 
-<p align="center">
-  <img src="https://github.com/hammadaslam1/reviews-classifier/blob/main/frontend/src/assets/logos/logo192.png" alt="Project Image">
-  <img src="https://github.com/hammadaslam1/reviews-classifier/blob/main/frontend/src/assets/logos/name_slogan.png" alt="Project Image">
-</p>
+###
 
-   - Customer Reviews Classification and Analysis System
-   - Developed as my final year project.
-   - Utilizes Data Mining and NLP techniques.
-   - Aimed at analyzing customer reviews from E-commerce platforms.
+<h3 align="left">🛠 Language and tools</h3>
 
-2. ### **Score Pulse**
+###
 
-<p align="center">
-  <img src="https://github.com/hammadaslam1/score-pulse/blob/main/src/assets/logos/icon_lite.png" alt="Project Image">
-</p>
-<p align="center">
-  <img src="https://github.com/hammadaslam1/score-pulse/blob/main/src/assets/logos/splash.png" alt="Project Image">
-</p>
+<br clear="both">
 
-   - A simple Mobile App for managing scores of cricket matches developed using React Native.
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="40" alt="illustrator logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" alt="materialui logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" height="40" alt="xd logo"  />
+</div>
 
-3. ### **00 Social Club**
+###
 
-<p align="center">
-  <img src="https://github.com/hammadaslam1/00-Social-Club-UI/blob/main/src/assets/logos/scLogo02.png" alt="Project Image">
-</p>
+<h3 align="left">🔥   My Stats :</h3>
 
-   - A simple Web-based UI design using React JS for Double Zero Social Club.
+###
 
-4. ### **Blogs Website**
+<br clear="both">
 
-<p align="center">
-  <img src="https://github.com/hammadaslam1/mha-blogs/blob/main/src/assets/blogs.png" alt="Project Image">
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hammadaslam1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=true&order=1" height="230" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=hammadaslam1&locale=en&mode=daily&theme=react&hide_border=true&border_radius=7&order=3" height="220" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hammadaslam1&theme=react&radius=16&area=true&hide_border=true" height="200" alt="activity-graph graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hammadaslam1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=react&hide_border=true&order=2" height="220" alt="languages graph"  />
+</div>
 
-   - A simple Blog website on which you can publish your blogs.
-
-5. ### **MHA's Swift Swap**
-
-   - A simple online exchange website for online goods exchange.
-
-## Contact Me
-
-| **Social Media** |
-|--------------|
-| [**Github**](https://github.com/hammadaslam1)     |
-| [**Fiverr**](https://www.fiverr.com/hammadaslam10)     |
-| [**LinkedIn**](https://www.linkedin.com/in/hammadaslam10)     |
-| [**Mail**](mailto:hammadaslam308@gmail.com)     |
-| [**Instagram**](https://www.instagram.com/hammadaslam10)     |
-| [**Facebook**](https://web.facebook.com/hammadaslam101)     |
-| [**Twitter**](https://twitter.com/hammadaslam_10)     |
-| [**Discord**](https://discordapp.com/users/1061504929681911879)     |
-| [**Whatsapp**](https://wa.me/qr/7R7TGR2TSQAEE1)     |
-
-
-Feel free to reach out if you have any inquiries or opportunities to collaborate. Let's connect and innovate together!
-
-<!---
-hammadaslam1/hammadaslam1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+###
