@@ -49,7 +49,7 @@
 
 ###
 
-<p align="left">I'm Hammad Aslam, MERN Stack Developer and a recent IT Graduate from Punjab, Pakistan.<br><br>- 🔭 I did BS Information Technology Post ADP from University of Education, Lahore<br>- 📚 I worked on my FYP named "OpinioMine" there, which analyzes customer reviews and classifies them based on their fakeness, sentiment, context and topics.<br>- ⚡ I have interests in programming and web development, and looking for the opportunity to enhance my skills<br>- ✨ My skills include MERN Stack, React Native, Next JS, and Python.</p>
+<p align="left">I'm Hammad Aslam, MERN Stack Developer and a recent IT Graduate from Punjab, Pakistan.<br><br>- 🔭 I did BS Information Technology Post ADP from University of Education, Lahore<br>- 📚 I worked on my FYP named "OpinioMine" there, which analyzes customer reviews and classifies them based on their topics discussed, sentiments, fakeness, and helpfulness.<br>- ⚡ I have interests in programming and web development, and looking for the opportunity to enhance my skills<br>- ✨ My skills include MERN Stack, React Native, Next JS, and Python.</p>
 
 ###
 
