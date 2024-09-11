@@ -49,11 +49,11 @@
 
 ###
 
-<p align="left">I'm Hammad Aslam, an Information Technology student from Jauharabad, Pakistan.<br><br>- 🔭 I’m a student of BS Information Technology Post ADP 4th sem (8th sem BS(Hons)) University of Education, Lahore<br>- 📚 I'm currently working on my FYP named "OpinioMine", which analyzes customer reviews and classifies them based on their fakeness, sentiment, context and topics.<br>- ⚡ I have interests in programming and web development, and looking for the opportunity to enhance my skills</p>
+<p align="left">I'm Hammad Aslam, MERN Stack Developer and a recent IT Graduate from Punjab, Pakistan.<br><br>- 🔭 I did BS Information Technology Post ADP from University of Education, Lahore<br>- 📚 I worked on my FYP named "OpinioMine" there, which analyzes customer reviews and classifies them based on their fakeness, sentiment, context and topics.<br>- ⚡ I have interests in programming and web development, and looking for the opportunity to enhance my skills<br>- ✨ My skills include MERN Stack, React Native, Next JS, and Python.</p>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Languages and tools</h3>
 
 ###
 
@@ -65,8 +65,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="10" />
