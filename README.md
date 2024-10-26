@@ -40,8 +40,10 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=hammadaslam1.hammadaslam1&"  />
+  <img src="https://visitcount.itsvg.in/api?id=hammadaslam1&label=Profile%20Views&pretty=true"  />
 </div>
+<!-- https://visitor-badge.laobi.icu/badge?page_id=hammadaslam1.hammadaslam1& -->
+<!-- [![](https://visitcount.itsvg.in/api?id=hammadaslam1&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in) -->
 
 ###
 
