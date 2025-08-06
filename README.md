@@ -5,43 +5,41 @@
 ###
 
 <h1 align="center">Muhammad Hammad Aslam</h1>
+<h3 align="center">A Passionate Software Engineer from Pakistan</h3>
 
 ###
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hammadaslam1&label=Profile%20views&color=0e75b6&style=flat" alt="hammadaslam1" /> </p>
+
+<p align="left"> <a href="https://www.instagram.com/hammadaslam10" target="blank"><img src="https://img.shields.io/twitter/follow/hammadaslam10?logo=twitter&style=for-the-badge" alt="hammadaslam10" /></a> </p>
 
 <br clear="both">
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/hammadaslam10/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://twitter.com/hammadaslam_10" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="45" height="25" alt="twitter logo"  />
-  </a>
-  <a href="https://www.instagram.com/hammadaslam10/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="45" height="25" alt="instagram logo"  />
-  </a>
-  <a href="https://web.facebook.com/hammadaslam101" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="45" height="25" alt="facebook logo"  />
-  </a>
+<h3 align="left">Connect with me:</h3>
+
+<div align="center" style="display: flex; align-items: center;">
+ <a href="https://linkedin.com/in/hammadaslam10" target="blank">
+   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hammadaslam10" width="45" height="25" />
+ </a>
+  <a href="https://twitter.com/hammadaslam_10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hammadaslam_10" width="45" height="25" /></a>
+  <a href="https://instagram.com/hammadaslam10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hammadaslam10" width="45" height="25" /></a>
+  <a href="https://fb.com/hammadaslam101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hammadaslam101" width="45" height="25" /></a>
   <a href="mailto:hammadaslam308@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="45" height="25" alt="gmail logo"  />
+    <img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="45" height="25" alt="gmail logo"  />
   </a>
-  <a href="https://discordapp.com/users/1061504929681911879" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="45" height="25" alt="discord logo"  />
-  </a>
-  <a href="https://www.hackerrank.com/profile/hammadaslam10" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="45" height="25" alt="hackerrank logo"  />
-  </a>
+  <a href="https://discord.gg/https://discordapp.com/users/1061504929681911879" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discordapp.com/users/1061504929681911879" width="45" height="25" /></a>
+  <a href="https://www.hackerrank.com/hammadaslam10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hammadaslam10" width="45" height="25" /></a>
   <a href="https://wa.me/qr/7R7TGR2TSQAEE1" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="45" height="25" alt="whatsapp logo"  />
+    <img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="45" height="25" alt="whatsapp logo"  />
   </a>
+  <a href="https://dev.to/hammadaslam10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="hammadaslam10" width="45" height="25" /></a>
+  <a href="https://codesandbox.com/hammadaslam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="hammadaslam" width="45" height="25" /></a>
+  <a href="https://dribbble.com/hammadaslam10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="hammadaslam10" width="45" height="25" /></a>
+  <a href="https://hashnode.com/@hammadaslam10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@hammadaslam10" width="45" height="25" /></a>
 </div>
 
 ###
 
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=hammadaslam1&label=Profile%20Views&pretty=true"  />
-</div>
 <!-- https://visitor-badge.laobi.icu/badge?page_id=hammadaslam1.hammadaslam1& -->
 <!-- [![](https://visitcount.itsvg.in/api?id=hammadaslam1&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in) -->
 
@@ -51,7 +49,16 @@
 
 ###
 
-<p align="left">I'm Hammad Aslam, MERN Stack Developer and a recent IT Graduate from Punjab, Pakistan.<br><br>- 🔭 I did BS Information Technology Post ADP from University of Education, Lahore<br>- 📚 I worked on my FYP named "OpinioMine" there, which analyzes customer reviews and classifies them based on their topics discussed, sentiments, fakeness, and helpfulness.<br>- ⚡ I have interests in programming and web development, and looking for the opportunity to enhance my skills<br>- ✨ My skills include MERN Stack, React Native, Next JS, and Python.</p>
+<p align="left">
+  Hi, I'm <strong>Hammad Aslam</strong> — a Software Engineer based in Punjab, Pakistan, with a strong focus on full-stack web and mobile development.<br><br>
+
+  - 💼 Currently working as a <strong>Software Engineer at Invobyte</strong> since December 2024.<br>
+  - 🎓 Graduated with a BS in Information Technology (Post ADP) from the University of Education, Lahore.<br>
+  - 🚀 Experienced in building scalable and performant applications using modern JavaScript frameworks and tools.<br>
+  - 💡 Passionate about continuous learning, clean code practices, and solving real-world problems through technology.<br>
+  - 🔧 Tech Stack: <strong>MERN Stack, Next.js, React Native, Python, TypeScript, MySQL, Prisma, WebSockets</strong>
+</p>
+
 
 ###
 
