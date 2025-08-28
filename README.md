@@ -144,8 +144,8 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hammadaslam1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=true&order=1" height="230" alt="stats graph"  />
-<!--   <img src="https://streak-stats.demolab.com?user=hammadaslam1&locale=en&mode=daily&theme=react&hide_border=true&border_radius=7&order=3" height="220" alt="streak graph"  /> -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hammadaslam1" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=hammadaslam1&locale=en&mode=daily&theme=react&hide_border=true&border_radius=7&order=3" height="220" alt="streak graph"  />
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hammadaslam1" height="220" alt="streak graph"  /> -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hammadaslam1&theme=react&radius=16&area=true&hide_border=true" height="200" alt="activity-graph graph"  />
 <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hammadaslam1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=react&hide_border=true&order=2" height="220" alt="languages graph"  /> -->
 </div>
