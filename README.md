@@ -11,7 +11,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hammadaslam1&label=Profile%20views&color=0e75b6&style=flat" alt="hammadaslam1" /> </p>
 
-<p align="left"> <a href="https://www.instagram.com/hammadaslam10" target="blank"><img src="https://img.shields.io/twitter/follow/hammadaslam10?logo=twitter&style=for-the-badge" alt="hammadaslam10" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/hammadaslam10" target="_blank"><img src="https://img.shields.io/twitter/follow/hammadaslam10?logo=twitter&style=for-the-badge" alt="hammadaslam10" /></a> </p>
 
 <br clear="both">
 
